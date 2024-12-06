@@ -132,11 +132,13 @@ function About() {
 								I&apos;m based in Ho Chi Minh City, Vietnam and open to work
 								fulltime. Feel free to contact me anytime!
 							</p>
-							<Button
-								name="Contact Me"
-								isOn
-								containerClass="w-full mt-10"
-							/>
+							<a href="#contact">
+								<Button
+									name="Contact Me"
+									isOn
+									containerClass="w-full mt-10"
+								/>
+							</a>
 						</div>
 					</div>
 				</div>
